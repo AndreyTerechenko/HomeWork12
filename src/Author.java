@@ -14,5 +14,14 @@ public class Author {
     public String getLastName() {
         return lastName;
     }
+
+    public void setName() {
+        this.name = name;
+    }
+
+    public void setLastName() {
+        this.lastName = lastName;
+    }
 }
 // Надеюсь все правильно.
+//все верно
