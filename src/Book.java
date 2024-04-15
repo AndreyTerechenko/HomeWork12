@@ -24,14 +24,4 @@ public class Book {
     public void setYear(int year) {
         this.year = year;
     }
-
-    public void setBookTitle(String bookTitle) {
-        this.bookTitle = bookTitle;
-    }
-
-    public void setAuthor(Author author) {
-        this.author = author;
-    }
-
 }
-
