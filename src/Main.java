@@ -10,9 +10,5 @@ public class Main {
                 " " + book1.getYear() + " года");
         System.out.println(book2.getBookTitle() + " произведение " + author2.getName() + " " + author2.getLastName() +
                 " " + book2.getYear() + " года");
-
-
     }
 }
-// Надеюсь все правильно.
-// все проверенно, все работает, данные что author что book и принимают и передают. принт выводит. объекты созданы.
